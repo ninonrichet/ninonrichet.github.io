@@ -43,6 +43,7 @@ h5 {
 
 .logo{
   height: 80px;
+  padding: 20px 20px 20px 20px;
 }
 
 .line-transparent {
@@ -78,8 +79,6 @@ h5 {
   align-items: center;
   background: #eee;
 }
-
-
 
 .links {
   display: flex;
